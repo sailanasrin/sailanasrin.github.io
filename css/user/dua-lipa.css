@@ -1,0 +1,7 @@
+.hero-text-box{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../../images/DuaLipa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
